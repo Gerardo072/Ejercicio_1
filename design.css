@@ -1,0 +1,22 @@
+*SELECTOR*/
+.titulo_1{
+    color: red; /*cambia color de texto*/
+    text-align: center; /*centra el texto*/
+    font-size: 50px; /*cambia el tamaño del texto*/
+    font-family: sans-serif; /*cambia la fuente del texto*/
+    }
+.img_frutas{
+    width: 200px;
+    border: 8px double black;
+    display: block;
+    margin: auto;
+   
+}
+.letra {
+    color: black;
+    text-align: center;
+    font-size: 20px; font-family: monospace
+}
+body{
+    background-color: palegreen;
+}
